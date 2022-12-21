@@ -1,2 +1,2 @@
 # Publish_Covid19SSM
-Contains code used for the paper HSMM style Epidemic Models (Placeholder)
+Contains code used for the paper 'SIR-type State Space Models with Piecewise Constant Transmission Rates' (Placeholder name)
